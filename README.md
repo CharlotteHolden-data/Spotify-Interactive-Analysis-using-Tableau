@@ -1,7 +1,7 @@
 # Spotify Interactive Analysis with Tableau 🎶📊
 
 This repository features an **interactive analysis** of Spotify data using **Tableau**, showcasing insights into music trends, artist popularity, and listener behavior.
-
+[Link to my Dashboard](https://public.tableau.com/app/profile/charlotte.holden/viz/SpotifyAnalysis_17563057813140/Dashboard1)
 ## Overview
 
 By harnessing Tableau's powerful visualization capabilities, we transformed Spotify's extensive music data into engaging and informative graphics that reveal key trends in the music industry.
